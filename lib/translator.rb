@@ -16,5 +16,5 @@ def get_japanese_emoticon
 end
 
 def get_english_meaning
-  # code goes here
+  get_english_meaning[lib/emoticons.yml]
 end
