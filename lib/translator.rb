@@ -1,7 +1,12 @@
 # require modules here
 
 def load_library
-  # code goes here
+  {
+      'happy' => {
+         :english => ":)",
+         :japanese => "(＾ｖ＾)"
+      }
+   }
 end
 
 def get_japanese_emoticon
